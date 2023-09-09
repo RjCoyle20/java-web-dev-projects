@@ -34,7 +34,7 @@ public class Main {
         //TODO Try to add a duplicate item
         menu.addMenuItem(steakSandwich2);
         System.out.println(menu);
-
+        menu.addMenuItem(steakSandwich2);
 
         menu.displayMenu();
     }
